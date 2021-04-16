@@ -10,7 +10,7 @@ body{
  width: 100vw;
  background-image: url("images/background.jpg");
  background-size: cover;
- background-repeat: no-repeat;
+ background-repeat:repeat;
  background-attachment: scroll;
  background-position: center;
  justify-content: center;
