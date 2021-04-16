@@ -68,6 +68,20 @@
   align-items: center;
  }
  
+.top_tips{
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.guide_images{
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+}
+
  .sub_heading{
   display: flex;
   margin: 2%;
