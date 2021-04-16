@@ -1,0 +1,99 @@
+*{
+  margin: 0%;
+  padding: 0%;
+ }
+ 
+ body{
+  display: flex;
+  margin: 0%;
+  height: 150vh;
+  width: 100vw;
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+ }
+ 
+ .background{
+  background-color: seagreen;
+  height: 90%;
+  width: 90%;
+  border: solid black 3px;
+ }
+ 
+ .logo{
+  display: flex;
+  margin: 2%;
+  justify-content: center;
+  align-items: center;
+ }
+ 
+ img {
+  border: 3px solid black;
+ }
+ 
+ .navbar{
+  height: 5%;
+  width: 100%;
+  font: black;
+ }
+ 
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:black;
+ }
+ 
+ li {
+  float: right;
+ }
+   
+  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1px 16px;
+  text-decoration: none;
+ }
+ 
+ .main{
+  height: 60%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+ }
+ 
+.club_content{
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+  align-items: center;
+}
+
+.club_img{
+  display: flex;
+  margin-top: 1%;
+  justify-content: center;
+  align-items: center;
+}
+
+ .footer{
+  height: 15%;
+  width: 100%;
+  justify-content: center;
+  align-items:center;
+  text-align: center;
+ }
+ 
+ .social{
+  margin-right: 1%;
+  display:inline;
+  justify-content:space-around;
+ }
+ 
+ 
